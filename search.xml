@@ -4,19 +4,6 @@
   
     
     <entry>
-      <title></title>
-      <link href="/blog/2021/04/18/Customization/Customization/"/>
-      <url>/blog/2021/04/18/Customization/Customization/</url>
-      
-        <content type="html"><![CDATA[<h3 id="Customization">Customization</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">echo</span> <span class="string">&quot;hello word&quot;</span></span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Mongodb的基本操作</title>
       <link href="/blog/2021/04/17/Mongodb_command/"/>
       <url>/blog/2021/04/17/Mongodb_command/</url>
